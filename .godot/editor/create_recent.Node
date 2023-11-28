@@ -1,5 +1,9 @@
+TextureRect
+Button
+HBoxContainer
+GridContainer
+VBoxContainer
 Label
 MarginContainer
-VBoxContainer
 ColorRect
 Panel
