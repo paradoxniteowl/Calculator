@@ -1,6 +1,5 @@
+res://calculator.tscn
 res://normal_function_style.tres
 res://normal_number_style.tres
-res://calculator.tscn
-res://normal_equal_style.tres
-res://hover_equal_style.tres
 res://calculator.gd
+res://README.md

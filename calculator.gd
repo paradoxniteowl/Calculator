@@ -18,7 +18,7 @@ func _ready():
 
 func _number_buttons(btn):
 	if not has_been_used:
-		work_area.txt = btn.name
+		work_area.text = btn.name
 		has_been_used = true
 	else:
 		work_area.text += btn.name
